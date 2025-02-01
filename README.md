@@ -2,6 +2,7 @@
 # Predicting Student Dropout Using Machine Learning
 
 ## Introduction
+[Google Colab here](https://colab.research.google.com/drive/1kZB1NmGbwIzDPRf3rWTOKKrFM5eXvk26?usp=sharing)
 
 Student dropout is a significant issue in education systems worldwide, resulting in a loss of potential and contributing to socioeconomic disparities. Educational institutions face challenges in retaining students until they complete their courses. This project leverages machine learning to predict the likelihood of student dropouts, enabling timely interventions to improve student retention and success rates.
 
